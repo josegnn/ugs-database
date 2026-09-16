@@ -8,7 +8,7 @@
 	- Lembrando que as decisões fora do fluxo sempre devem ser tomadas após ouvidos o time da CISE.
 	- A UGS dá a palavra final sobre seguir ou não o fluxo, mas sempre após ouvidos os colegas técnicos (SEOP, Terceirizada, SINF).
 
- - # Gerenciamento de Mudanças (DTI/PF)
+# Gerenciamento de Mudanças (DTI/PF)
 
 ## Objetivo
 
